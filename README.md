@@ -19,7 +19,6 @@ I build software, tools, and digital products from scratch — while constantly 
 
 * 🌍 [portfolio](https://noxdeve.github.io)
 * 🐙 [GitHub](https://github.com/noxdeve)
-* 𝕏 [X](https://x.com/NoX_Deve)
 
 ---
 
