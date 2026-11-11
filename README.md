@@ -14,6 +14,7 @@ I build software, tools, and digital products from scratch — while constantly 
 * **RSH** — A Rust-based remote shell project.
 * **Asciify** — A Python-based ASCII art utility.
 * **NoX Dev Portfolio** — My personal developer portfolio.
+* **Sentinel** - A secure, offline-first password manager for Linux and Android, built with Rust and Tauri.
 
 ### 🌐 Find me
 
