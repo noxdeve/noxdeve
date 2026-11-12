@@ -111,5 +111,3 @@ Building things from scratch.</sub></p>
 <td width="38%" valign="middle" align="right"><a href="https://github.com/noxdeve">GitHub</a><br /><a href="https://noxdeve.github.io">Website</a><br /><a href="https://x.com/NoX_Deve">X</a></td>
 </tr>
 </table>
-
-<p align="center"><sub>Nox Dev · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
